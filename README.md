@@ -1,5 +1,6 @@
 # Mario Haya - 俊杰
 - Finance  - Applied Economics - Political Science
-- ***📚 Check out my repos below 👇***
+
+<h3 align="center">📚 Check out my repos below 👇</h3>
 
 ![](univac.jpg)
