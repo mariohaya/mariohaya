@@ -49,9 +49,16 @@
       </p>
       <p>Terminal-based portfolio optimization tool built around Markowitz theory.</p>
     </td>
-    <td valign="top" width="50%"></td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/mariohaya/my-dotfiles">my-dotfiles</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Dotfiles-config-blue" />
+        <img src="https://img.shields.io/badge/Linux-workflow-black" />
+      </p>
+      <p>Personal dotfiles and configuration files for my development environment.</p>
+    </td>
   </tr>
 </table>
 
 ![](univac.jpg)
-
+----
