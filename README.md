@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Mario (俊杰) </h3> 
+<h3 align="center">Hi, I'm Mario / 俊杰 </h3> 
 <h3 align="center">📚 Check out my projects and templates below 👇</h3>
 
 <h2>Projects</h2>
