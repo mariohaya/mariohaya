@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/Dotfiles-config-blue" />
         <img src="https://img.shields.io/badge/Linux-workflow-black" />
       </p>
-      <p>Personal dotfiles and configuration files for my development environment.</p>
+      <p>Archlinux dotfiles; hyprland WM.</p>
     </td>
   </tr>
 </table>
