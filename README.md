@@ -44,7 +44,7 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/pyfolio">pyfolio</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Portfolio-Markowitz-critical" />
+        <img src="https://img.shields.io/badge/Portfolio--critical" />
         <img src="https://img.shields.io/badge/TUI-terminal-black" />
       </p>
       <p>Terminal-based portfolio optimization tool built around Markowitz theory.</p>
