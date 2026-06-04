@@ -17,7 +17,7 @@
       <p>
         <img src="https://img.shields.io/badge/NeoVim-PDF-black" />
       </p>
-      <p>NeoVim workflow tool for compiling LaTeX documents to PDF.</p>
+      <p>NeoVim workflow tool for compiling LaTeX documents to PDF with a simple keybind.</p>
     </td>
   </tr>
 
