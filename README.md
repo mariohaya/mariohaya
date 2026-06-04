@@ -25,13 +25,14 @@
       <h3><a href="https://github.com/mariohaya/black-scholes-TUI">black-scholes-TUI</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Options-Python-blue" />
+        <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
       </p>
       <p>Terminal-based Black-Scholes calculator with option Greeks.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/my-dotfiles">my-dotfiles</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Linux config-workflow-green" />
+        <img src="https://img.shields.io/badge/Linux config-dotfiles-green" />
       </p>
       <p>Archlinux dotfiles; hyprland WM.</p>
     </td>
