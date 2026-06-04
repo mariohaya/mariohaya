@@ -42,7 +42,7 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/black-scholes-TUI">black-scholes-TUI</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Options-terminal-black" />
+        <img src="https://img.shields.io/badge/Options-Python-blue" />
       </p>
       <p>Terminal-based Black-Scholes calculator with option Greeks.</p>
     </td>
