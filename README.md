@@ -34,7 +34,7 @@
       <p>
         <img src="https://img.shields.io/badge/Market Data-Python-blue" />
       </p>
-      <p>Python tool for downloading historical market data and exporting it to CSV.</p>
+      <p>Market data export and processing tool; exports as .CSV or .DB.</p>
     </td>
   </tr>
 
