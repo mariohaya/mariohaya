@@ -2,25 +2,7 @@
 <h3 align="center">Check out my projects and templates below 👇</h3>
 
 <h2>Projects</h2>
-
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/key-search">key-search</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Terminal-PDF-black" />
-      </p>
-      <p>Search for keywords inside PDF files directly from the terminal.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/nvim-to-LaTeX">nvim-to-LaTeX</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/NeoVim-PDF-black" />
-      </p>
-      <p>NeoVim workflow tool for compiling LaTeX documents to PDF with a simple keybind.</p>
-    </td>
-  </tr>
-
   <tr>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/pyfolio">pyfolio</a></h3>
@@ -52,6 +34,23 @@
         <img src="https://img.shields.io/badge/Linux config-workflow-green" />
       </p>
       <p>Archlinux dotfiles; hyprland WM.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/mariohaya/key-search">key-search</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Terminal-PDF-black" />
+      </p>
+      <p>Search for keywords inside PDF files directly from the terminal.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/mariohaya/nvim-to-LaTeX">nvim-to-LaTeX</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/NeoVim-PDF-black" />
+      </p>
+      <p>Compile LaTeX documents to PDF with a simple keybind in Neovim. Fast and more efficient than Overleaf.</p>
     </td>
   </tr>
 </table>
