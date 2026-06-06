@@ -42,8 +42,9 @@
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/key-search">key-search</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Terminal-PDF-black" />
+        <img src="https://img.shields.io/badge/Terminal-Bash/Shell-black" />
         <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
+        <img src="https://img.shields.io/badge/-PDF-white" />
       </p>
       <p>Search for keywords inside PDF files directly from the terminal.</p>
     </td>
@@ -51,6 +52,7 @@
       <h3><a href="https://github.com/mariohaya/nvim-to-LaTeX">nvim-to-LaTeX</a></h3>
       <p>
         <img src="https://img.shields.io/badge/NeoVim-LaTeX-purple" />
+        <img src="https://img.shields.io/badge/-PDF-white" />
       </p>
       <p>Compile LaTeX documents <u><b>offline</u></b> to PDF with a simple keybind in Neovim. Fast and more efficient than Overleaf.</p>
     </td>
