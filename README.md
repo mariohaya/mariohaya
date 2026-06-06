@@ -52,7 +52,7 @@
       <p>
         <img src="https://img.shields.io/badge/NeoVim-LaTeX-purple" />
       </p>
-      <p>Compile LaTeX documents to PDF with a simple keybind in Neovim. Fast and more efficient than Overleaf.</p>
+      <p>Compile LaTeX documents **offline** to PDF with a simple keybind in Neovim. Fast and more efficient than Overleaf.</p>
     </td>
   </tr>
 </table>
