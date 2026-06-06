@@ -43,6 +43,7 @@
       <h3><a href="https://github.com/mariohaya/key-search">key-search</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Terminal-PDF-black" />
+        <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
       </p>
       <p>Search for keywords inside PDF files directly from the terminal.</p>
     </td>
