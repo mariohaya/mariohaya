@@ -22,7 +22,7 @@
 
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/BSM-TUI">black-scholes-TUI</a></h3>
+      <h3><a href="https://github.com/mariohaya/BSM-CLI">BSM-CLI</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Options-Python-blue" />
         <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
