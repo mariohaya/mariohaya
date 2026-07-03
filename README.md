@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/pyfolio">pyfolio</a></h3>
+      <h3><a href="https://github.com/mariohaya/pyfolio">pyfolio ⭐</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Portfolio Optimization-Python-blue" />
+        <img src="https://img.shields.io/badge/Portfolios-Python-blue" />
       </p>
-      <p>Terminal-based portfolio optimization tool built around Markowitz theory.</p>
+      <p>Terminal-based portfolio optimization tool built around Markowitz theory. Fetches returns data from <code>yfinance</code></p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/ticker2csv">ticker2csv</a></h3>
@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/Options-Python-blue" />
         <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
       </p>
-      <p>Terminal-based Black-Scholes calculator with option Greeks.</p>
+      <p>Terminal-based Black-Scholes calculator. Compares theoretical values to live options chain data from <code>yfinance</code> to measure price discrepancies.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/my-dotfiles">my-dotfiles</a></h3>
