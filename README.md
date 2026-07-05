@@ -16,8 +16,7 @@
       <p>
         <img src="https://img.shields.io/badge/Market Data-Python-blue" />
       </p>
-      <p>Market data export and processing tool; exports as .CSV or .DB.</p>
-    </td>
+        <p>Fast and easy tool that pulls historical Yahoo Finance data for one or more tickers and exports prices, volume, and return metrics as <code>.csv</code> or <code>.db</code>.</p>    </td>
   </tr>
 
   <tr>
