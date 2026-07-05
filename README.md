@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Mario / 俊杰 </h3> 
-<h3 align="center">Check out my projects and LaTeX templates below 👇</h3>
+<h3 align="center">Check out my projects, tools, and LaTeX templates below 👇</h3>
 
 <h2>Projects</h2>
 <table>
