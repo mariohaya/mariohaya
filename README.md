@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/Options-Python-blue" />
         <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
       </p>
-      <p>Terminal-based Black-Scholes calculator. Compares theoretical values to live options chain data from <code>yfinance</code> to measure price discrepancies.</p>
+      <p>Compare theoretical option values to live options chain data from <code>yfinance</code> and export as a dataset.</p>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/mariohaya/my-dotfiles">my-dotfiles</a></h3>
