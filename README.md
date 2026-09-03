@@ -1,63 +1,18 @@
 <h3 align="center">Hi, I'm Mario / 俊杰 </h3> 
 <h3 align="center">Check out my projects, tools, and LaTeX templates below 👇</h3>
 
-<h2>Projects</h2>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/pyfolio">pyfolio</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Portfolios-Python-blue" />
-      </p>
-      <p>Terminal-based portfolio optimization tool built around Markowitz theory. Fetches returns data from <code>yfinance</code></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/ticker2csv">ticker2csv</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Market Data-Python-blue" />
-      </p>
-        <p>Fast and easy tool that pulls historical Yahoo Finance data for one or more tickers and exports prices, volume, and return metrics as <code>.csv</code> or <code>.db</code>.</p>    </td>
-  </tr>
+## Projects
 
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/BSM-CLI">BSM-CLI</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Options-Python-blue" />
-        <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
-      </p>
-      <p>Compare theoretical option values to live options chain data from <code>yfinance</code> and export as a dataset.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/my-dotfiles">my-dotfiles</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Linux config-dotfiles-green" />
-      </p>
-      <p>Archlinux dotfiles; hyprland WM.</p>
-    </td>
-  </tr>
+* **[pyfolio](https://github.com/mariohaya/pyfolio)** — Terminal-based portfolio optimization tool built around Markowitz theory. Fetches returns data from `yfinance`.
 
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/key-search">key-search</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Terminal-Bash/Shell-black" />
-        <img src="https://img.shields.io/badge/-In%20Progress-yellow" />
-        <img src="https://img.shields.io/badge/-PDF-white" />
-      </p>
-      <p>Search for keywords inside PDF files directly from the terminal.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/mariohaya/nvim-to-LaTeX">nvim-to-LaTeX</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/NeoVim-LaTeX-purple" />
-        <img src="https://img.shields.io/badge/-PDF-white" />
-      </p>
-      <p>Compile LaTeX documents <u><b>offline</u></b> to PDF with a simple keybind in Neovim. Fast and more efficient than Overleaf.</p>
-    </td>
-  </tr>
-</table>
+* **[ticker2csv](https://github.com/mariohaya/ticker2csv)** — Fast and easy tool that pulls historical Yahoo Finance data for one or more tickers and exports prices, volume, and return metrics as `.csv` or `.db`.
 
+* **[BSM-CLI](https://github.com/mariohaya/BSM-CLI)** *(In Progress)* — Compare theoretical option values to live options chain data from `yfinance` and export the results as a dataset.
 
-![](univac.jpg)
-----
+* **[metals-auction-model](https://github.com/mariohaya/metals-auction-model)** — Valuation model for metals auctions that accounts for purity, weight, delivery lag, interest rates, commodity-price volatility, FX risk, transaction fees, and financing. Calculates both non-risk-adjusted and risk-adjusted maximum bids.
+
+* **[my-dotfiles](https://github.com/mariohaya/my-dotfiles)** — Arch Linux dotfiles and Hyprland window manager configuration.
+
+* **[key-search](https://github.com/mariohaya/key-search)** *(In Progress)* — Search for keywords inside PDF files directly from the terminal.
+
+* **[nvim-to-LaTeX](https://github.com/mariohaya/nvim-to-LaTeX)** — Compile LaTeX documents offline to PDF with a simple Neovim keybind.
