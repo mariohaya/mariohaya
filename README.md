@@ -3,16 +3,18 @@
 
 ## Projects
 
-* **[pyfolio](https://github.com/mariohaya/pyfolio)** — Terminal-based portfolio optimization tool built around Markowitz theory. Fetches returns data from `yfinance`.
+* **[pyfolio](https://github.com/mariohaya/pyfolio)** — Portfolio optimization tool built around Markowitz theory. Uses `yfinance`.
 
 * **[ticker2csv](https://github.com/mariohaya/ticker2csv)** — Fast and easy tool that pulls historical Yahoo Finance data for one or more tickers and exports prices, volume, and return metrics as `.csv` or `.db`.
 
-* **[BSM-CLI](https://github.com/mariohaya/BSM-CLI)** *(In Progress)* — Compare theoretical option values to live options chain data from `yfinance` and export the results as a dataset.
+* **[BSM-CLI](https://github.com/mariohaya/BSM-CLI)** — Compare theoretical option values to live options chain data from `yfinance` and export the results as a dataset.
 
-* **[metals-auction-model](https://github.com/mariohaya/metals-auction-model)** — Valuation model for metals auctions that accounts for purity, weight, delivery lag, interest rates, commodity-price volatility, FX risk, transaction fees, and financing. Calculates both non-risk-adjusted and risk-adjusted maximum bids.
+* **[metals-auction-model](https://github.com/mariohaya/metals-auction-model)** — Valuation model for metals auctions that accounts for purity, weight, delivery lag, interest rates, commodity price volatility, FX risk, transaction fees, and financing (if any). Outputs a highest acceptable bid price.
 
-* **[my-dotfiles](https://github.com/mariohaya/my-dotfiles)** — Arch Linux dotfiles and Hyprland window manager configuration.
+* **[nvim-to-LaTeX](https://github.com/mariohaya/nvim-to-LaTeX)** — Compile LaTeX documents offline to PDF instantly. Works best with [zathurapdf](https://github.com/pwmt/zathura).
+
+* **[my-dotfiles](https://github.com/mariohaya/my-dotfiles)** — Arch Linux dotfiles and Hyprland window manager config.
 
 * **[key-search](https://github.com/mariohaya/key-search)** *(In Progress)* — Search for keywords inside PDF files directly from the terminal.
 
-* **[nvim-to-LaTeX](https://github.com/mariohaya/nvim-to-LaTeX)** — Compile LaTeX documents offline to PDF with a simple Neovim keybind.
+ 
