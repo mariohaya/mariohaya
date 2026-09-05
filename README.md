@@ -5,7 +5,7 @@
 ## Finance
 * **[pyfolio](https://github.com/mariohaya/pyfolio)** — Portfolio optimization tool built around Markowitz theory. Uses `yfinance`.
 
-* **[ticker2csv](https://github.com/mariohaya/ticker2csv)** — Fast and easy tool that pulls historical Yahoo Finance data for one or more tickers and exports prices, volume, and return metrics as `.csv` or `.db`.
+* **[ticker2csv](https://github.com/mariohaya/ticker2csv)** — Fast and easy tool to export historical Yahoo Finance data for one or more tickers. Exports prices, volume, and return metrics as `.csv` or `.db`.
 
 * **[BSM-CLI](https://github.com/mariohaya/BSM-CLI)** — Compare theoretical option values to live options chain data from `yfinance` and export the results as a dataset.
 
