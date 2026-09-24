@@ -16,6 +16,8 @@
 * **[my-dotfiles](https://github.com/mariohaya/my-dotfiles)** — Arch Linux dotfiles and Hyprland window manager config.
 
 * **[key-search](https://github.com/mariohaya/key-search)** *(In Progress)* — Search for keywords inside PDF files directly from the terminal.
+* 
+* **[csmt-pdf](https://github.com/mariohaya/csmt-pdf)** *(In Progress)* — Python tool to compress, split, merge, and trim PDFs from a terminal.
 
 ### Obsidian
 * **[lesswrong-obsidian-theme](https://github.com/mariohaya/lesswrong-obsidian-theme)** — Obsidian theme inspired by LessWrong’s typography, color palette, and overall reading experience. 
