@@ -4,6 +4,8 @@
 # Projects
 ## Finance
 * **[pyfolio](https://github.com/mariohaya/pyfolio)** — Portfolio optimization tool built around Markowitz theory. Uses `yfinance`.
+ 
+* **[analysis](https://github.com/mariohaya/analysis)** — Technical and fundamental equity analysis.
 
 * **[ticker2csv](https://github.com/mariohaya/ticker2csv)** — Fast and easy tool to export historical Yahoo Finance data for one or more tickers. Exports prices, volume, and return metrics as `.csv` or `.db`.
 
